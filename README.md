@@ -1,126 +1,132 @@
 # Mohamed Aymen Elmezouari
 
-> **Master's in Business Analytics Student** | Data Analytics Enthusiast | AWS Learner | Bridging Technical Skills with Business Impact
+> **MSc Business Analytics | AI & Cloud | Founder @ MazAi Consulting | ESADE '26**  
+> Building AI-powered solutions that bridge technical depth with real business impact.
 
 ---
 
 ## 🎯 About Me
 
-I'm a final-year **Master's student in Business Analytics** (ESADE) specializing in **Artificial Intelligence**, passionate about transforming complex business problems into data-driven solutions. With experience driving enterprise sales pipelines and hands-on skills in **Python, AWS, and machine learning**, I combine technical depth with business acumen.
+I'm a final-year **MSc Business Analytics student at ESADE** (AI & Machine Learning specialization), currently completing a study tour at **Korea University Business School** focused on Digital Transformation and AI-driven Decision Making.
 
-Currently seeking opportunities to leverage my analytics expertise in roles where I can **analyze, optimize, and build scalable data solutions** while continuing to grow my technical skill set.
+I've founded two ventures, shipped production-grade AI systems, and built an executive network of 500+ C-level leaders across Barcelona — all while developing deep hands-on skills in **Python, AWS, FastAPI, and Machine Learning**.
 
-**What I'm Building:**
-- 📊 **Data Analytics** - Real-world projects analyzing complex datasets
-- 🔧 **Cloud Learning** - Hands-on AWS projects and architecture exploration
-- 🤖 **Machine Learning** - Building and training predictive models
-- 💼 **Business Impact** - Translating data insights into actionable business decisions
+I'm passionate about taking complex business problems and turning them into scalable, data-driven solutions — from concept to deployment.
+
+**What I'm currently working on:**
+- 🤖 **MazAi Consulting** — AI advisory platform with 5 virtual advisors (sales, marketing, finance, HR, ops)
+- 🏢 **Executive Network** — Invitation-only C-suite community of 500+ leaders in Barcelona
+- ☁️ **Cloud & AI Projects** — AWS-native pipelines, RAG systems, and serverless architectures
+- 🎓 **Capstone @ Banco Sabadell** — Traditional RAG vs. Graph RAG implementation
 
 ---
 
 ## 🛠️ Technical Skills
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-**Programming Languages:** Python • SQL • R • JavaScript/HTML/CSS  
-**Data & Analytics:** Pandas • NumPy • Scikit-Learn • Power BI • Jupyter Notebook  
-**Cloud Platforms:** AWS (EC2, Lambda, S3, DynamoDB, Rekognition), SAP Cloud ERP  
-**Tools & Frameworks:** Flask • Git • VS Code • Matplotlib/Seaborn  
+**Languages:** Python • SQL • R • JavaScript / HTML / CSS  
+**Data & ML:** Pandas • NumPy • Scikit-Learn • Power BI • Google Analytics • Jupyter  
+**Cloud:** AWS (EC2, Lambda, S3, DynamoDB, Rekognition) • Azure • SAP Cloud  
+**Backend & APIs:** FastAPI • Flask • REST APIs • Postman  
+**Frontend:** React • Tailwind CSS  
+**AI Tools:** ChatGPT • Claude • Groq • Gemini • Perplexity • OpenRouter  
+**CRM & Sales Tools:** SAP ONE360 • SAP CRM • LinkedIn Sales Navigator • Outreach • ZoomInfo  
+**Other:** Git • Advanced Excel (VBA, Pivot Tables) • Cybersecurity Awareness  
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔷 [Data Analytics Portfolio](https://github.com/mohamedaymenelmezouari/data-analytics-projects)
-**Real-world business analysis showcasing data exploration & insights**
-- Conducted exploratory data analysis (EDA) on complex datasets
-- Built predictive models using Scikit-Learn with model evaluation
-- Created interactive visualizations and dashboards
-- **Tech Stack:** Python, Pandas, SQL, Power BI, Jupyter
+### 🧠 [MazAi Consulting – AI Advisory Platform](https://github.com/mohamedaymenelmezouari)
+**AI-powered virtual advisor platform for SME business intelligence**
+- Built 5 AI advisors (sales, marketing, finance, HR, operations) with an interactive chat interface
+- Supports CSV, Excel, PDF, and Word file uploads for insight generation
+- **Tech Stack:** Python 3.12 · FastAPI · Google Generative AI · Pandas · React · Tailwind CSS
+
+---
+
+### 🏦 Banco Sabadell – Traditional RAG vs. Graph RAG *(Capstone — Ongoing)*
+**Enterprise-grade AI knowledge retrieval comparison**
+- Designing and benchmarking RAG architectures for real-world enterprise use cases
+- **Tech Stack:** Python · OpenRouter · LangChain · Graph Databases
+
+---
+
+### ⚡ InstantLead AI – AI Lead Automation *(Built in 3 Hours)*
+**End-to-end AI lead qualification and booking system**
+- Built a live marketing website, backend API, and embeddable chatbot in a single session
+- Automated lead qualification and appointment booking using real-time AI
+- **Tech Stack:** Python · OpenRouter API · HTML/CSS/JS
+
+---
+
+### 🔒 Anonify – Event Photo Anonymizer *(Cloud Computing Final Project)*
+**GDPR-compliant, serverless face-blurring pipeline on AWS**
+- Detects and blurs non-consented faces in event photos at scale
+- Generates audit metadata (timestamps, bounding boxes, confidence scores) in DynamoDB
+- **Tech Stack:** AWS (S3 · Lambda · Rekognition · DynamoDB · EC2 · IAM) · Python · Flask
+
+---
+
+### 📊 [Data Analytics Portfolio](https://github.com/mohamedaymenelmezouari/data-analytics-projects)
+**Real-world EDA, predictive modelling, and dashboards**
+- **Tech Stack:** Python · Pandas · SQL · Power BI · Jupyter
 
 ### ☁️ [AWS Projects](https://github.com/mohamedaymenelmezouari/aws-projects)
-**Hands-on AWS learning & practical cloud solutions**
-- Deployed applications using EC2 and Lambda functions
-- Built data pipelines with S3 and DynamoDB
-- Explored AWS Rekognition for image processing projects
-- **Tech Stack:** AWS, Python, DynamoDB, Lambda
+**Hands-on cloud architecture and data pipeline exploration**
+- **Tech Stack:** AWS · Python · DynamoDB · Lambda
 
 ### 🤖 [Machine Learning Models](https://github.com/mohamedaymenelmezouari/ml-portfolio)
-**End-to-end machine learning from problem definition to evaluation**
-- Classification & regression models with feature engineering
-- Hyperparameter tuning and cross-validation strategies
-- Model performance analysis and interpretation
-- **Tech Stack:** Python, Scikit-Learn, Pandas, Jupyter
-
----
-
-## 🎓 Education & Certifications
-
-**ESADE Business School**
-- **MSc in Business Analytics** (AI Specialization) — *Sep 2024 - Jul 2025*
-  - Core Skills: Python, Pandas, NumPy, SQL, ML algorithms, Cloud computing
-  - Practical Focus: Real-world projects in data analysis & predictive modeling
-  
-- **BBA in Business Administration** — *Sep 2021 - Jun 2025*
-
-**Professional Certifications & Training**
-- **AWS Academy Graduate** - Cloud Foundations (Nov 2025)
-- **Positioning and Selling SAP Cloud ERP and RISE with SAP solutions** - SAP Cloud ERP Strategy & Implementation
-- **Kaggle Python Coder Badge** - Data analysis & Python proficiency
-- **DataCamp Python Onboarding** - Certified
+**Classification, regression, and model evaluation pipelines**
+- **Tech Stack:** Python · Scikit-Learn · Pandas · Jupyter
 
 ---
 
 ## 💼 Experience
 
-**SAP - Digital Demand Associate** (Jan 2025 - Jun 2025) | BeLux Market Unit
-- Generated high-quality leads targeting C-level executives (C-suite), Directors, and VPs for mid-market & enterprise accounts
-- Maintained up-to-date campaign overviews to ensure consistent messaging and coordination across Sales and Demand Generation.
-- Ensured Accounts CRM accuracy using SAP ONE360 and SAP CRM and continuously maintain clean, enriched data for Sales and Marketing teams.
-- Conducted cold calls and email outreach to engage and invite key public sector prospects to SAP Innovation Day Event in Brussels.
+| Role | Organization | Period |
+|---|---|---|
+| Founder & Network Curator | MazAi Consulting (Event & Executive Community) | Feb 2026 – Present |
+| Founder | MazAi Consulting (AI Advisory Platform) | Jan 2025 – Present |
+| Digital Demand Associate | SAP — EMEA BeLux | Jan 2025 – Jun 2025 |
+| Market Research & Consulting Intern | HappySneeze | Jul 2024 – Aug 2024 |
+| VC Deal Sourcing Intern | RevRoad | Jun 2024 – Jul 2024 |
+| Financial Analyst Intern | MA COPRO | May 2022 – Sep 2022 |
+| Student Ambassador | ESADE | Oct 2024 – May 2025 |
 
-**HappySneeze - Market Research & Consulting** (Jul 2024 - Aug 2024)
-- Conducted consumer trends research affecting product positioning
-- Executed comprehensive consumer research, encompassing outreach, interviews, and data analysis.
-- Developed interpersonal & public speaking skills through client presentations
+---
 
-**RevRoad - VC Deal Sourcing (Internship)** (Jun 2024 - Jul 2024)
-- Analyzed emerging edtech startups and investment opportunities
-- Evaluated competitive landscapes and market trends
+## 🎓 Education
 
-**MA COPRO - Financial Analysis (Internship)** (May 2022 - Sep 2022)
-- Analyzed market trends and financial performance metrics
-- Created forecasts and dashboards using PowerBI for decision-making
+| Degree | Institution | Period |
+|---|---|---|
+| Study Tour – Digital Transformation & AI in Asia | Korea University Business School | Jan 2026 – Feb 2026 |
+| MSc Business Analytics (AI & ML) | ESADE Business School | Sep 2025 – Jul 2026 |
+| Exchange Program – Finance & Management *(Honors)* | Renmin University of China | Aug 2024 – Jan 2025 |
+| BBA Business Administration | ESADE Business School | Sep 2021 – Jun 2025 |
+| Training – World Politics & International Relations | Italian Diplomatic Academy, NYC | Jan 2020 – Jun 2020 |
 
-**ESADE - Student Ambassador** (Oct 2024 - May 2025)
-- Represented school at recruitment & admissions events
-- Mentored prospective students and supported campus community
+**Certifications & Awards**
+- 🏆 SAP Alumni Award  
+- 📜 Bloomberg Market Concepts  
+- 🎓 McKinsey Forward Program  
+- ☁️ AWS Academy Graduate — Cloud Foundations  
+- 📊 Kaggle Python Coder Badge · DataCamp Python Certified  
+- 🌍 MUN Delegate — Future We Want, New York (Feb 2020)
 
 ---
 
 ## 🌍 Languages
 
-🇪🇸 **Spanish** (Advanced)  | 🇬🇧 **English** (Advanced) | 🇫🇷 **French** (Native) | 🇲🇦 **Arabic** (Native)
+🇫🇷 French *(Native)* &nbsp;|&nbsp; 🇲🇦 Arabic *(Native)* &nbsp;|&nbsp; 🇬🇧 English *(Business Fluent)* &nbsp;|&nbsp; 🇪🇸 Spanish *(Business Fluent)*
 
 ---
 
-## 🔗 Connect with Me
+## 📬 Connect
 
-- **Email:** [aymen.elmezouari@gmail.com](mailto:aymen.elmezouari@gmail.com)
-- **LinkedIn:** [linkedin.com/in/mohamed-aymen-elmezouari](https://www.linkedin.com/in/mohamed-aymen-elmezouari/)
-- **Location:** Barcelona, Spain 🇪🇸 (Open to opportunities across Europe)
-- **Looking for:** Data Analytics roles • Business Intelligence • Analytics Engineering
+- 📧 [aymen.elmezouari@gmail.com](mailto:aymen.elmezouari@gmail.com)
+- 💼 [linkedin.com/in/mohamed-aymen-elmezouari](https://www.linkedin.com/in/mohamed-aymen-elmezouari/)
+- 💻 [github.com/mohamedaymenelmezouari](https://github.com/mohamedaymenelmezouari)
+- 📍 Barcelona, Spain 🇪🇸 — Open to opportunities across Europe
 
 ---
 
@@ -133,8 +139,8 @@ Currently seeking opportunities to leverage my analytics expertise in roles wher
 
 <div align="center">
 
-**Turning Data into Insights | Forever Learning | Let's Build Together** 
+**AI Builder · Data Analyst · Executive Connector · Forever Learning**
 
-*Last Updated: December 2025*
+*Last Updated: March 2026*
 
 </div>
