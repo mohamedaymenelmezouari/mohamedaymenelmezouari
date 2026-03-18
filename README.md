@@ -85,7 +85,7 @@ I'm passionate about taking complex business problems and turning them into scal
 
 | Role | Organization | Period |
 |---|---|---|
-| Founder & Network Curator | MazAi Consulting (Event & Executive Community) | Feb 2026 – Present |
+| Founder & Network Curator | Barcelona Executive Circle (Event & Executive Community) | Feb 2026 – Present |
 | Founder | MazAi Consulting (AI Advisory Platform) | Jan 2025 – Present |
 | Digital Demand Associate | SAP — EMEA BeLux | Jan 2025 – Jun 2025 |
 | Market Research & Consulting Intern | HappySneeze | Jul 2024 – Aug 2024 |
