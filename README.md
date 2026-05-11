@@ -9,7 +9,7 @@
 
 I'm a final-year **MSc Business Analytics student at ESADE** (AI & Machine Learning specialization), completed a study tour at **Korea University Business School** focused on Digital Transformation and AI-driven Decision Making.
 
-I've founded two ventures, shipped production-grade AI systems, and built an executive network of 500+ C-level leaders across Barcelona — all while developing deep hands-on skills in **Python, AWS, FastAPI, and Machine Learning**.
+I've founded two ventures, shipped production-grade AI systems, and built an executive network of 200+ C-level leaders across Barcelona — all while developing deep hands-on skills in **Python, AWS, FastAPI, and Machine Learning**.
 
 I'm passionate about taking complex business problems and turning them into scalable, data-driven solutions — from concept to deployment.
 
