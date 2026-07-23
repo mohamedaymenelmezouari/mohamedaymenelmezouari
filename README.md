@@ -1,152 +1,180 @@
+<div align="center">
+
 # Mohamed Aymen Elmezouari
 
-> **Revenue Operations & Business Analytics · MSc Business Analytics, ESADE · ex-SAP**
-> Business background, technical hands. I build the systems I'd otherwise be asking someone else to build.
+**Revenue Operations & Business Analytics**
+
+ESADE MSc Business Analytics · ex-SAP · Barcelona
+
+`Casablanca` → `Barcelona` → `Beijing` → `Seoul` → `San Diego`
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-1a1a1a?style=flat-square&logo=r&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonwebservices&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-1a1a1a?style=flat-square&logo=powerbi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## About
+> Revenue operations is where commercial strategy meets the data that proves whether it's working. I've now worked both halves of that: first inside an enterprise sales organisation, then on the analytics and cloud systems behind one.
 
-I work at the intersection of commercial operations and data. Six months at **SAP** in Demand Operations (EMEA | BeLux) taught me what an enterprise go-to-market machine looks like from the inside, and how much of its output rests on data quality nobody sees. My **MSc in Business Analytics at ESADE** added the technical half: Python, SQL, R, machine learning, and cloud architecture on AWS.
+At SAP I spent six months in Demand Operations covering the BeLux region, working alongside Account Executives, Sales Development Executives and Demand Managers to build top-of-funnel pipeline, maintain CRM data quality across the territory, and define the ideal customer profiles worth pursuing. What stayed with me is how much of a commercial team's output rests on data quality nobody sees, and how quickly forecasting, targeting and campaign performance degrade when it slips.
 
-Most of what's below was built to answer a question I had, not to complete an assignment.
-
-**Currently:**
-- 🏦 **Capstone @ Banco Sabadell** — Traditional RAG vs. Graph RAG for client data protection in regulated banking
-- 🤖 **MazAi Consulting** — AI advisory platform with five domain-specific advisors
-- 🏢 **Barcelona Executive Circle** — invitation-only community of 200+ C-level leaders and senior directors
-- ☁️ **Cloud & AI** — AWS-native pipelines, serverless architectures, retrieval systems
+Most of what I know technically, I learned by building. This is where that work lives.
 
 ---
 
-## Technical Skills
+## By the numbers
 
-**Languages:** Python · SQL · R · JavaScript / HTML / CSS
-**Data & ML:** Pandas · NumPy · Scikit-Learn · Power BI · Jupyter
-**Cloud:** AWS (EC2, Lambda, S3, DynamoDB, Rekognition, SageMaker, Fargate, ECR) · Azure · SAP Cloud
-**Backend & APIs:** FastAPI · Flask · REST APIs · Postman
-**Frontend:** React · Tailwind CSS
-**AI:** LangChain · OpenRouter · Anthropic · Google Generative AI · Groq
-**CRM & GTM:** SAP CRM · SAP ONE360 · Outreach · LinkedIn Sales Navigator · ZoomInfo
-**Other:** Git · Advanced Excel (VBA, Pivot Tables)
+<div align="center">
 
----
+| 1.4M | 120+ | 50+ | 4 | 5 |
+|:---:|:---:|:---:|:---:|:---:|
+| sensor readings<br>processed | startups<br>screened | research<br>participants | languages<br>spoken | countries<br>worked in |
 
-## Featured Projects
-
-### 🏦 Banco Sabadell — Traditional RAG vs. Graph RAG
-**MSc capstone · applied AI research in a regulated banking environment**
-- Designed the evaluation framework before implementation, benchmarking both retrieval architectures on accuracy, latency and explainability against real financial document sets
-- Built knowledge-graph-enhanced retrieval to reduce exposure risk in sensitive document workflows, treating GDPR compliance as a design constraint rather than a review step
-- Delivered a recommendation on which architecture the bank should adopt for financial data compliance at scale
-- **Stack:** Python · LangChain · OpenRouter · Graph Databases
+</div>
 
 ---
 
-### 🔒 [Anonify — GDPR-Compliant Event Photo Anonymizer](https://github.com/mohamedaymenelmezouari)
-**Serverless AWS pipeline · cloud computing final project**
-- Detects and blurs non-consented faces in event photography at scale
-- Writes per-image audit metadata (timestamps, bounding boxes, confidence scores) to DynamoDB for legal traceability
-- Flask web frontend for upload and review
-- **Stack:** AWS (S3 · Lambda · Rekognition · DynamoDB · EC2 · IAM) · Python · Flask
+## Selected work
+
+### Traditional RAG vs. Graph RAG
+**Banco Sabadell · MSc Capstone**
+
+Applied AI research comparing two retrieval architectures for protecting client data in a regulated banking environment. I designed the evaluation framework before writing implementation code, benchmarking both pipelines on accuracy, latency and explainability against real financial document sets, so the final recommendation was defensible rather than intuitive. Knowledge-graph-enhanced retrieval reduced exposure risk in sensitive document workflows, with GDPR compliance treated as a design constraint rather than a review step.
+
+`Python` `LangChain` `OpenRouter` `Graph Databases`
+
+<br>
+
+### Anonify
+**GDPR-compliant event photo anonymizer**
+
+A serverless AWS pipeline that detects and blurs non-consented faces in event photography at scale, then writes per-image audit metadata (timestamps, bounding boxes, confidence scores) to DynamoDB so every decision is traceable after the fact. Flask frontend for upload and review.
+
+`AWS` `S3` `Lambda` `Rekognition` `DynamoDB` `EC2` `IAM` `Python` `Flask`
+
+<br>
+
+### Manufacturing Process Prediction
+**End-to-end ML pipeline on AWS**
+
+A Bronze/Silver/Gold data architecture cleaning and enriching 1.4 million factory sensor readings, feeding an XGBoost model deployed on SageMaker that predicts process time to within 0.65 seconds average error. Containerised dashboard on Fargate, images in ECR, model versioning through SageMaker Model Registry.
+
+`AWS` `SageMaker` `Fargate` `ECR` `XGBoost` `Docker` `Python`
+
+<br>
+
+### AiFin
+**AI financial analysis platform**
+
+Full-stack platform orchestrating multiple AI models behind a single conversational interface, with document upload and natural-language querying over financial data.
+
+`Python` `FastAPI` `React`
+
+<br>
+
+### MazAi Consulting
+**AI advisory platform**
+
+Five domain-specific virtual advisors covering sales, marketing, finance, HR and operations, with an interactive chat interface and support for CSV, Excel, PDF and Word uploads.
+
+`Python 3.12` `FastAPI` `Google Generative AI` `Pandas` `React` `Tailwind CSS`
+
+<br>
+
+### InstantLead AI
+**Lead qualification and booking, shipped in three hours**
+
+Marketing site, backend API and embeddable chatbot built and deployed in a single session. Not the most sophisticated thing here, but a useful demonstration of how fast a working system can go from idea to live.
+
+`Python` `OpenRouter API` `HTML/CSS/JS`
 
 ---
 
-### 🏭 Manufacturing Process Prediction — End-to-End ML on AWS
-**Bronze/Silver/Gold pipeline from raw sensor data to live prediction dashboard**
-- Cleaned and enriched 1.4M factory sensor readings through a layered data architecture
-- Trained and deployed an XGBoost model on SageMaker predicting process time to within 0.65s average error
-- Containerised dashboard on Fargate, images in ECR, model versioning via SageMaker Model Registry
-- **Stack:** AWS (SageMaker · Fargate · ECR · S3) · Python · XGBoost · Docker
-
----
-
-### 🧠 AiFin — AI Financial Analysis Platform
-**Full-stack platform orchestrating multiple AI models behind one conversational interface**
-- Document upload and parsing with natural-language querying over financial data
-- Multi-model routing across providers, each selected for a different part of the analysis
-- **Stack:** Python · FastAPI · React · multi-provider AI orchestration
-
----
-
-### 🤖 MazAi Consulting — AI Advisory Platform
-**Five domain-specific virtual advisors for SME business intelligence**
-- Advisors covering sales, marketing, finance, HR and operations with an interactive chat interface
-- Supports CSV, Excel, PDF and Word uploads for insight generation
-- **Stack:** Python 3.12 · FastAPI · Google Generative AI · Pandas · React · Tailwind CSS
-
----
-
-### ⚡ InstantLead AI — Lead Qualification & Booking
-**Shipped end to end in a single three-hour session**
-- Marketing site, backend API and embeddable chatbot built and deployed in one sitting
-- Automated lead qualification and appointment booking
-- **Stack:** Python · OpenRouter API · HTML/CSS/JS
-
----
-
-### Portfolios
+## Portfolios
 
 | Repository | Focus | Stack |
-|---|---|---|
-| [data-analytics-projects](https://github.com/mohamedaymenelmezouari/data-analytics-projects) | EDA, predictive modelling, dashboards | Python · Pandas · SQL · Power BI |
-| [aws-projects](https://github.com/mohamedaymenelmezouari/aws-projects) | Cloud architecture and data pipelines | AWS · Python · DynamoDB · Lambda |
-| [ml-portfolio](https://github.com/mohamedaymenelmezouari/ml-portfolio) | Classification, regression, model evaluation | Python · Scikit-Learn · Jupyter |
+|:---|:---|:---|
+| [data-analytics-projects](https://github.com/mohamedaymenelmezouari/data-analytics-projects) | EDA, predictive modelling, dashboards | Python, Pandas, SQL, Power BI |
+| [aws-projects](https://github.com/mohamedaymenelmezouari/aws-projects) | Cloud architecture and data pipelines | AWS, Python, DynamoDB, Lambda |
+| [ml-portfolio](https://github.com/mohamedaymenelmezouari/ml-portfolio) | Classification, regression, model evaluation | Python, Scikit-Learn, Jupyter |
 
 ---
 
 ## Experience
 
-| Role | Organization | Period |
-|---|---|---|
-| Founder & Network Curator | Barcelona Executive Circle | Feb 2026 – Present |
-| Founder | MazAi Consulting | Jan 2025 – Present |
-| Digital Demand Associate, Demand Operations | SAP (EMEA \| BeLux) | Jan 2025 – Jun 2025 |
-| Student Ambassador | ESADE | Oct 2024 – May 2025 |
-| Market Research & Consulting Intern | HappySneeze (San Diego) | Jul 2024 – Aug 2024 |
-| VC Analyst Intern, Deal Sourcing | RevRoad (Provo, UT) | Jun 2024 – Jul 2024 |
-| Financial Analyst Intern | MA COPRO (Casablanca) | May 2022 – Sep 2022 |
+**Data & AI Research Analyst (MSc Capstone)** at Banco Sabadell · Feb 2026 to Jul 2026
+Applied AI research on retrieval architectures for client data protection in regulated banking.
+
+**Digital Demand Associate, Demand Operations (EMEA | BeLux)** at SAP · Jan 2025 to Jun 2025
+Owned top-of-funnel pipeline generation for the BeLux territory. Maintained CRM data accuracy so Sales and Marketing could target and forecast on reliable data. Partnered with Sales Development Executives, Account Executives and Demand Managers to define ideal customer profiles. Ran cold and discovery calls with C-level executives, VPs and Directors across the public sector, and drove attendance to SAP Innovation Day in Brussels.
+
+**Student Ambassador** at ESADE · Oct 2024 to May 2025
+Represented ESADE to prospective students at admissions events, webinars and open days.
+
+**Market Research & Consulting Intern** at HappySneeze, San Diego · Jul 2024 to Aug 2024
+Designed and ran consumer research across 50+ users, turning findings into prioritised product recommendations.
+
+**Venture Capital Analyst Intern, Deal Sourcing** at RevRoad, Provo UT · Jun 2024 to Jul 2024
+Screened 120+ ed-tech startups against the fund's investment thesis, producing due diligence reports that shaped portfolio decisions.
+
+**Financial Analyst Intern** at Ma Copro, Casablanca · May 2022 to Sep 2022
+Analysed market trends and financial performance across active real estate developments, building forecasts and cost control measures with project teams.
 
 ---
 
 ## Education
 
-| Degree | Institution | Period |
-|---|---|---|
-| MSc Business Analytics (AI & ML) | ESADE Business School | Sep 2025 – Jul 2026 |
-| Study Tour — Digital Transformation & AI in Asia | Korea University Business School | Jan 2026 – Feb 2026 |
-| BBA Business Administration | ESADE Business School | Sep 2021 – Jun 2025 |
-| Exchange — Finance & Management *(Honors)* | Renmin University of China | Aug 2024 – Jan 2025 |
+**MSc Business Analytics** · ESADE Business School · Sep 2025 to Jul 2026
+Python, R, SQL, machine learning and cloud-based analytics on AWS. Graduating October 2026.
 
-**Certifications & Awards**
-- 🏅 First Class With Distinction — International Study Tour, Korea University (ESADE)
-- ☁️ AWS Academy Graduate — Cloud Foundations
-- 🎓 McKinsey Forward Program
-- 📈 Bloomberg Market Concepts
-- 💼 Private Equity & Venture Capital — Università Bocconi
-- 🔷 SAP Alumni Network (Credly)
+**International Study Tour, Digital Transformation in Asia** · Korea University Business School, Seoul · Jan 2026 to Feb 2026
+Awarded First Class With Distinction.
+
+**BBA Business Administration** · ESADE Business School · Sep 2021 to Jun 2025
+Finance, strategy, marketing and operations, with quantitative coursework in statistics and financial analysis.
+
+**Exchange Semester, Finance & Management** · Renmin University of China, Beijing · Aug 2024 to Jan 2025
+Graduated with honours.
 
 ---
 
-## Languages
+## Certifications
 
-French *(Native)* · Arabic *(Native)* · English *(Business Fluent)* · Spanish *(Business Fluent)*
-
----
-
-## Contact
-
-- 📧 [aymen.elmezouari@gmail.com](mailto:aymen.elmezouari@gmail.com)
-- 💼 [linkedin.com/in/mohamed-aymen-elmezouari](https://www.linkedin.com/in/mohamed-aymen-elmezouari/)
-- 📍 Barcelona, Spain — open to roles in revenue operations, sales operations and business analytics
+AWS Academy Graduate (Cloud Foundations) · McKinsey Forward Program · Bloomberg Market Concepts · Private Equity & Venture Capital (Università Bocconi) · Positioning and Selling SAP Cloud ERP and RISE · SAP Outreach Certificate · SAP Alumni Network
 
 ---
 
-## GitHub Activity
+## Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedaymenelmezouari&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaymenelmezouari&layout=compact&theme=default&hide_border=true)
+| | |
+|:---|:---|
+| **Languages** | Python, SQL, R, JavaScript, HTML, CSS |
+| **Data & ML** | Pandas, NumPy, Scikit-Learn, XGBoost, Power BI, Jupyter |
+| **Cloud** | AWS (EC2, Lambda, S3, DynamoDB, Rekognition, SageMaker, Fargate, ECR), Azure, SAP Cloud |
+| **Backend** | FastAPI, Flask, REST APIs, Docker, Postman |
+| **Frontend** | React, Tailwind CSS |
+| **AI** | LangChain, OpenRouter, Google Generative AI |
+| **CRM & GTM** | SAP CRM, SAP ONE360, Outreach, LinkedIn Sales Navigator, ZoomInfo |
+| **Other** | Git, Advanced Excel (VBA, Pivot Tables) |
 
 ---
 
-*Last updated: July 2026*
+<div align="center">
+
+**French** (Native) · **Arabic** (Native) · **English** (Business Fluent) · **Spanish** (Business Fluent)
+
+<br>
+
+Based in Barcelona, available immediately.
+Open to roles in revenue operations, sales operations and business analytics.
+
+[Email](mailto:aymen.elmezouari@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-aymen-elmezouari/)
+
+</div>
